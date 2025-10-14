@@ -1,0 +1,98 @@
+# Site settings
+title: Dr. Diego Bravo | Senior Data Scientist
+email: dbravo27@gmail.com
+description: >-
+  Senior Data Scientist with 7+ years of experience in Machine Learning, Deep Learning,
+  and AI. PhD in Mathematics specializing in production-grade ML systems, recommender systems,
+  and generative AI solutions.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+linkedin_username: diegobravoguerrero
+github_username: diegotechie
+
+# Author information
+author:
+  name: Dr. Diego Bravo
+  title: Senior Data Scientist & AI Leader
+  location: Plano, Texas
+  visa_status: O1-A (Extraordinary Abilities in Artificial Intelligence and Mathematics)
+  education: PhD in Mathematics
+  experience: 7+ years in Data Science & AI
+  linkedin: https://linkedin.com/in/diegobravoguerrero
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: python
+    css_class: 'highlight'
+  math_engine: mathjax
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Dr. Diego Bravo"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .vscode/
+  - .idea/
+
+# Include
+include:
+  - _pages
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# SEO settings
+twitter:
+  card: summary
+logo: /assets/images/logo.png
+social:
+  name: Dr. Diego Bravo
+  links:
+    - https://linkedin.com/in/diegobravoguerrero
+    - https://github.com/diegotechie
+
+# Theme (using default for GitHub Pages compatibility)
+theme: minima

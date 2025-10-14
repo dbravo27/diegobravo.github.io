@@ -1,0 +1,175 @@
+/* Custom CSS for Dr. Diego Bravo Portfolio */
+
+/* Variables */
+:root {
+  --primary-color: #0066cc;
+  --secondary-color: #004999;
+  --accent-color: #ff6b35;
+  --text-color: #333;
+  --light-bg: #f5f5f5;
+  --border-color: #ddd;
+  --code-bg: #f6f8fa;
+}
+
+/* Typography */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+/* Code blocks */
+code {
+  background: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.9em;
+}
+
+pre {
+  background: var(--code-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* Syntax highlighting for Python */
+.highlight .k { color: #d73a49; } /* keywords */
+.highlight .s { color: #032f62; } /* strings */
+.highlight .mi { color: #005cc5; } /* numbers */
+.highlight .c { color: #6a737d; } /* comments */
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+}
+
+th, td {
+  border: 1px solid var(--border-color);
+  padding: 0.75em;
+  text-align: left;
+}
+
+th {
+  background: var(--light-bg);
+  font-weight: 600;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--primary-color);
+  padding-left: 1em;
+  margin: 1.5em 0;
+  color: #666;
+  font-style: italic;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 0.75em 1.5em;
+  background: var(--primary-color);
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.btn:hover {
+  background: var(--secondary-color);
+  color: white;
+  text-decoration: none;
+}
+
+/* Cards */
+.card {
+  background: white;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 1em 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transform: translateY(-2px);
+}
+
+/* Math equations (MathJax) */
+.MathJax {
+  font-size: 1.1em !important;
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Print styles */
+@media print {
+  body {
+    font-size: 12pt;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  pre, code {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  table {
+    font-size: 0.9em;
+  }
+
+  pre {
+    font-size: 0.85em;
+  }
+}
