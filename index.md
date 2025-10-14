@@ -92,7 +92,7 @@ Leading the development of enterprise-scale AI solutions including:
 
 ## Connect With Me
 
-[View Full CV]({{ site.baseurl }}/cv/) | [Explore Projects]({{ site.baseurl }}/projects/) | [LinkedIn](https://linkedin.com/in/diegobravoguerrero)
+[View Full CV]({{ site.baseurl }}/cv/) | [LinkedIn](https://linkedin.com/in/diegobravoguerrero)
 
 <div class="contact-cta" markdown="1">
 
