@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Dr. Diego Bravo
-## Senior Data Scientist & AI Leader
+## Senior Data Scientist & Mathematician
 
 <div class="hero-intro" markdown="1">
 
@@ -19,7 +19,6 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 <div class="expertise-grid">
 
 <div class="expertise-card">
-<div class="expertise-icon">🤖</div>
 <h3>Machine Learning & AI</h3>
 <ul>
 <li><strong>Production ML Systems:</strong> Recommender systems, pricing optimization, forecasting</li>
@@ -29,7 +28,6 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 </div>
 
 <div class="expertise-card">
-<div class="expertise-icon">⚙️</div>
 <h3>Data Engineering & MLOps</h3>
 <ul>
 <li><strong>Big Data:</strong> PySpark, Databricks, Apache Airflow</li>
@@ -39,7 +37,6 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 </div>
 
 <div class="expertise-card">
-<div class="expertise-icon">👥</div>
 <h3>Technical Leadership</h3>
 <ul>
 <li>Led teams of 30+ data scientists</li>
@@ -59,8 +56,8 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 **$10M Revenue Boost**
 Assortment optimization API for AB InBev serving 300K stores
 
-**97% Faster Quotes**
-ML pricing engine reducing turnaround from 24h to <2h
+**90% Faster Quotes**
+ML pricing engine reducing quote turnaround from 24h to <2h
 
 **40% Efficiency Gain**
 Real-time optimization in truck logistics sector
@@ -87,7 +84,7 @@ Price forecasting API for US real estate firm
 
 ## Currently
 
-**AI Leader & Senior Data Scientist at Cresteo** (Chicago, IL)
+**Senior Data Scientist at Cresteo** (Chicago, IL - Remote)
 
 Leading the development of enterprise-scale AI solutions including:
 - Multi-tenant recommender system (2.8M interactions, 267K users)
@@ -96,7 +93,7 @@ Leading the development of enterprise-scale AI solutions including:
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [View Full CV]({{ site.baseurl }}/cv/) | [Explore Projects]({{ site.baseurl }}/projects/) | [LinkedIn](https://linkedin.com/in/diegobravoguerrero)
 

@@ -453,6 +453,14 @@ blockquote {
   color: var(--text-secondary);
 }
 
+/* Hide Subscribe/RSS feed link */
+.feed-subscribe,
+.rss-subscribe,
+a[href*="feed.xml"],
+a[href*="/feed/"] {
+  display: none !important;
+}
+
 /* ===== RESPONSIVE DESIGN ===== */
 @media (max-width: 768px) {
   body {
