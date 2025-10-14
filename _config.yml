@@ -15,7 +15,6 @@ author:
   name: Dr. Diego Bravo
   title: Senior Data Scientist & AI Leader
   location: Plano, Texas
-  visa_status: O1-A (Extraordinary Abilities in Artificial Intelligence and Mathematics)
   education: PhD in Mathematics
   experience: 7+ years in Data Science & AI
   linkedin: https://linkedin.com/in/diegobravoguerrero
@@ -106,4 +105,3 @@ header_pages:
   - _pages/about.md
   - _pages/projects.md
   - _pages/cv.md
-#  - _pages/blog.md

@@ -268,4 +268,3 @@ ruby -v  # Should be 3.3.6
 - Email: dbravo27@gmail.com
 - LinkedIn: [linkedin.com/in/diegobravoguerrero](https://linkedin.com/in/diegobravoguerrero)
 - Location: Plano, Texas
-- Visa: O1-A (Extraordinary Abilities in AI and Mathematics)

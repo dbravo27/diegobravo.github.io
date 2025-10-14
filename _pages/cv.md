@@ -7,12 +7,11 @@ permalink: /cv/
 # Curriculum Vitae
 
 ## Dr. Diego Bravo
-**Senior Data Scientist & AI Leader**
+**Senior Data Scientist & Mathematician**
 
-📧 [dbravo27@gmail.com](mailto:dbravo27@gmail.com)
-🔗 [linkedin.com/in/diegobravoguerrero](https://linkedin.com/in/diegobravoguerrero)
-📍 Plano, Texas
-🛂 O1-A Visa (Extraordinary Abilities in Artificial Intelligence and Mathematics)
+- 📧 [dbravo27@gmail.com](mailto:dbravo27@gmail.com)
+- 🔗 [linkedin.com/in/diegobravoguerrero](https://linkedin.com/in/diegobravoguerrero)
+- 📍 Plano, Texas
 
 ---
 
@@ -24,37 +23,37 @@ With over **7 years of work experience** in data analytics after receiving a PhD
 
 ## Technical Skills
 
-### Programming Languages
+#### Programming Languages
 Python, SQL, PySpark, HTML, CSS
 
-### Machine Learning
+#### Machine Learning
 Scikit-Learn, XGBoost, LightGBM, CatBoost, spaCy, HuggingFace, MLflow, AutoML, Prophet, Optuna
 
-### Deep Learning
+#### Deep Learning
 PyTorch, TensorFlow, Keras, OpenCV, YOLO, Convolutional Neural Networks, Transformers, BERT
 
-### Data Wrangling
+#### Data Wrangling
 Pandas, NumPy, Matplotlib, Seaborn, SciPy, Plotly, Statistical methods
 
-### Cloud Platforms
+#### Cloud Platforms
 Azure, AWS, GCP
 
-### Big Data & Data Engineering
+#### Big Data & Data Engineering
 Databricks, DVC, Apache Airflow
 
-### Databases
+#### Databases
 PostgreSQL, SQL Server, Azure Databases, Azure Data Studio
 
-### Deployment
+#### Deployment
 Docker, FastAPI, GitHub Actions, Streamlit, Gradio, Azure Web Apps
 
-### Project Management
+#### Project Management
 Git, GitHub, Jira, GitHub Projects, Azure DevOps, Bitbucket, Slack
 
-### Generative AI
+#### Generative AI
 Azure Foundry, RAG, Azure OpenAI, OpenAI, Gemini API, LLama, LangChain, HuggingFace, Agents
 
-### Research
+#### Research
 Active researcher with 11 published research papers
 
 ---
@@ -62,7 +61,7 @@ Active researcher with 11 published research papers
 ## Professional Experience
 
 ### Cresteo | Chicago, IL
-**AI Leader and Senior Data Scientist**
+**Senior Data Scientist**
 *July 2023 - Present*
 
 1. **Multi-Tenant Recommender System for LMS**
@@ -71,7 +70,7 @@ Active researcher with 11 published research papers
    - Implemented intelligent content deduplication, cold-start handling, and achieved 95% user coverage
    - System designed for multi-cloud deployment (AWS/Azure/GCP) to serve multiple enterprise clients
 
-2. **Pricing Optimization Engine for Top U.S. Printing Company**
+2. **Pricing Optimization Engine for Top U.S. Manufacturing Company**
    - Designed and deployed ML platform that slashed quote turnaround from 24h to <2h (97% on-time)
    - Leveraged advanced feature engineering, XGBoost models, and automated hyper-parameter optimization
    - Delivered estimated 12% profit lift and ~20% productivity gain
@@ -138,10 +137,9 @@ Successfully deployed and managed comprehensive machine learning projects, leadi
 
 **Top 5 Projects:**
 
-1. **Shell InnerSource Initiative**
-   - Led InnerSource initiative for Shell's AI and Data Science department
+1. **Top tier Oil & Gas US company**
    - Fostered collaboration and knowledge sharing among 400+ data scientists
-   - Designed and developed 30+ Python and Data Science courses tailored to Shell's needs
+   - Designed and developed 30+ Python and Data Science courses
    - Established best-practice guidelines and hands-on workshops
    - Enabled seamless skill development, standardization, and cross-team innovation
 
@@ -233,9 +231,9 @@ Specialization: Spectral Graph Theory
 
 ## Certifications
 
-- Microsoft Certified: Azure Fundamentals
-- Databricks Lakehouse Fundamentals
-- Python
+- Microsoft Certified
+- Databricks Certified
+- Python Certified
 - Large Language Models in Azure OpenAI
 - Git & GitHub
 
@@ -299,4 +297,4 @@ Specialization: Spectral Graph Theory
 
 *Last Updated: October 2025*
 
-[Download PDF Version](#) | [Contact Me](mailto:dbravo27@gmail.com)
+[Download PDF Version]({{ site.baseurl }}/assets/pdf/DrDiegoBravo_SrDataSciencist_2025_10_14.pdf) | [Contact Me](mailto:dbravo27@gmail.com)

@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Dr. Diego Bravo
 
-## Senior Data Scientist & AI Leader
+## Senior Data Scientist & Mathematician
 
 I'm a Senior Data Scientist with over 7 years of experience transforming complex data challenges into production-grade AI solutions. My unique background—combining a PhD in Mathematics with extensive industry experience—enables me to bridge theoretical rigor with practical business impact.
 
@@ -23,27 +23,21 @@ I'm a Senior Data Scientist with over 7 years of experience transforming complex
 - Presented at 20+ international conferences across 10 countries
 
 ### 🏆 Recognition
-
-**O1-A Visa Holder** - *Extraordinary Abilities in Artificial Intelligence and Mathematics*
-
-This prestigious visa classification recognizes individuals who have demonstrated extraordinary ability in their field through sustained national or international acclaim. My O1-A status is based on contributions to AI, machine learning, and mathematical research.
-
-**Additional Honors:**
 - Summa Cum Laude - Bachelor's degree (top of class)
 - Best Student of the College of Sciences (3 consecutive years)
 - Bronze medal at National Mathematics Olympiads
-- Microsoft Certified: Azure Fundamentals
-- Databricks Lakehouse Fundamentals
+- Microsoft Certified
+- Databricks Certified
 
 ### 💼 Professional Journey
 
-#### **Cresteo** - AI Leader & Senior Data Scientist (2023 - Present)
+#### **Cresteo** - Senior Data Scientist (2023 - Present)
 Chicago, IL
 
 Leading enterprise-scale AI initiatives that combine cutting-edge research with production deployment:
 
-- **Multi-Tenant Recommender System**: Architected hybrid recommendation pipeline for LMS with 2.8M interactions, achieving 95% user coverage using ALS collaborative filtering and NLP-based content analysis
-- **Pricing Optimization Engine**: Deployed ML platform for top US printing company, reducing quote turnaround from 24h to <2h (97% on-time) with estimated 12% profit lift
+- **Multi-Tenant Recommender System**: Architected hybrid recommendation pipeline for Learning Management System with 2.8M interactions, achieving 95% user coverage using ALS collaborative filtering and NLP-based content analysis
+- **Pricing Optimization Engine**: Deployed ML platform for top US manufacturing company, reducing quote turnaround from 24h to <2h with estimated 12% profit lift
 - **AI-Powered Sales Agent**: Developed GenAI solution generating 20+ page financial reports, increasing client engagement by 25% using Azure OpenAI and Google Gemini
 - **Logistics Optimization**: Achieved 20% revenue increase and 40% efficiency improvement through real-time optimization in truck logistics
 
@@ -62,9 +56,9 @@ Montevideo, Uruguay
 
 Delivered high-impact ML projects for Fortune 500 clients:
 
-- **Shell InnerSource Initiative**: Created 30+ Python and Data Science courses for 400+ data scientists
+- **Top tier Oil & Gas company**: Created 30+ Python and Data Science courses for 400+ data scientists
 - **AB InBev Assortment Optimization**: Generated $10M profit in 6 months with Discrete Choice Models API serving 300K stores
-- **FinTech Document Processing**: Boosted loan approval efficiency by 70% using NLP, OCR, and BERT
+- **FinTech Document Processing**: Boosted loan approval efficiency by 70% using NLP, OCR, and LLMs
 - **Fashion Image Classification**: Achieved 99% accuracy using CNNs and PyTorch
 - **Real Estate Price Forecasting**: Increased sales conversions by 20% and profit margins by 3%
 
@@ -78,7 +72,7 @@ Montevideo, Uruguay
 #### **Catholic University** - Professor & Data Scientist (2008 - 2014)
 Venezuela
 
-- Implemented ARIMA/SARIMA models for enrollment forecasting
+- Implemented ARIMA/SARIMA models for enrollment and budget forecasting
 - Led "Forecasting with Time Series" weekly seminar
 - Created and directed Mathematical Olympiads (600+ participants, 30+ schools)
 
@@ -138,10 +132,9 @@ I'm passionate about solving complex problems at the intersection of mathematics
 
 ### 📍 Location & Contact
 
-**Based in:** Plano, Texas
-**Status:** O1-A Visa (Extraordinary Abilities)
-**Email:** [dbravo27@gmail.com](mailto:dbravo27@gmail.com)
-**LinkedIn:** [linkedin.com/in/diegobravoguerrero](https://linkedin.com/in/diegobravoguerrero)
+- **Based in:** Plano, Texas
+- **Email:** [dbravo27@gmail.com](mailto:dbravo27@gmail.com)
+- **LinkedIn:** [linkedin.com/in/diegobravoguerrero](https://linkedin.com/in/diegobravoguerrero)
 
 ---
 

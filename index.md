@@ -8,8 +8,6 @@ title: Home
 
 <div class="hero-intro" markdown="1">
 
-**O1-A Visa Holder** | *Extraordinary Abilities in Artificial Intelligence and Mathematics*
-
 With over **7 years of experience** in data analytics following a **PhD in Mathematics**, I specialize in developing production-grade machine learning systems that drive measurable business impact. My expertise spans the full ML lifecycle—from data engineering to deployment—delivering solutions that have generated millions in revenue and transformed operations across retail, logistics, healthcare, and finance.
 
 </div>
