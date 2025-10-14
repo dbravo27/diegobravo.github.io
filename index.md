@@ -12,7 +12,7 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 
 </div>
 
----
+
 
 ## Core Expertise
 
@@ -47,7 +47,6 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 
 </div>
 
----
 
 ## Impact Highlights
 
@@ -67,7 +66,7 @@ Price optimization API for US manufacturing company
 
 </div>
 
----
+
 
 ## Academic Excellence
 
@@ -80,7 +79,6 @@ Price optimization API for US manufacturing company
 
 </div>
 
----
 
 ## Currently
 
@@ -91,7 +89,6 @@ Leading the development of enterprise-scale AI solutions including:
 - GenAI-powered sales agents generating comprehensive financial reports
 - Real-time optimization systems for logistics and operations
 
----
 
 ## Connect With Me
 
@@ -104,7 +101,6 @@ Leading the development of enterprise-scale AI solutions including:
 
 </div>
 
----
 
 <style>
 .hero-intro {

@@ -10,13 +10,11 @@ permalink: /cv/
 - 🔗 [linkedin.com/in/diegobravoguerrero](https://linkedin.com/in/diegobravoguerrero)
 - 📍 Plano, Texas
 
----
 
 ## Overview
 
 With over **7 years of work experience** in data analytics after receiving a PhD in Mathematics, my day-to-day tasks involve working with large and complex data sets. I solve a wide array of challenging problems using Data Engineering, Machine Learning, Cloud Computing, Big Data, Statistical Modeling, and other IT tools. Partnering with cross-functional teams, I inform, influence, support, and execute business strategies.
 
----
 
 ## Technical Skills
 
@@ -150,7 +148,6 @@ With over **7 years of work experience** in data analytics after receiving a PhD
 
 </div>
 
----
 
 ## Professional Experience
 
@@ -293,7 +290,6 @@ Successfully deployed and managed comprehensive machine learning projects, leadi
 
 **Leadership:** Creator and Director of Mathematical Olympiads of Catholic University for 4 consecutive years with 600+ participants from 30+ High Schools and Colleges
 
----
 
 ## Education
 
@@ -321,7 +317,6 @@ Specialization: Spectral Graph Theory
 *September 2000 - August 2005*
 **Summa Cum Laude**
 
----
 
 ## Certifications
 
@@ -331,7 +326,6 @@ Specialization: Spectral Graph Theory
 - Large Language Models in Azure OpenAI
 - Git & GitHub
 
----
 
 ## Awards & Honors
 
@@ -339,7 +333,6 @@ Specialization: Spectral Graph Theory
 - **Bronze medal**: National Mathematics Olympiads
 - **Best Student of the College of Sciences**: Awarded for 3 consecutive years
 
----
 
 ## Publications {#publications}
 
