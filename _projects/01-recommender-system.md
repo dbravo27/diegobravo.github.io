@@ -271,4 +271,4 @@ Architected system for deployment across AWS, Azure, and GCP:
 **Team Size**: 3 data scientists, 2 ML engineers, 1 data engineer
 **My Role**: Lead Data Scientist - Architecture design, model development, deployment strategy
 
-[← Back to Projects](/projects)
+[← Back to Projects]({{ site.baseurl }}/projects/)

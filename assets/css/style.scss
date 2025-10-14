@@ -1,0 +1,544 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom CSS overrides for Dr. Diego Bravo Portfolio */
+
+/* ===== COLOR SCHEME ===== */
+:root {
+  --primary-color: #0066cc;
+  --primary-dark: #004999;
+  --primary-light: #3399ff;
+  --accent-color: #ff6b35;
+  --text-primary: #2c3e50;
+  --text-secondary: #546e7a;
+  --bg-light: #f8f9fa;
+  --bg-gray: #eceff1;
+  --border-color: #cfd8dc;
+  --shadow-sm: 0 2px 4px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.12);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+/* ===== GLOBAL STYLES ===== */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--text-primary);
+  line-height: 1.7;
+  background-color: #ffffff;
+}
+
+.wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+/* ===== HEADER & NAVIGATION ===== */
+.site-header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+  box-shadow: var(--shadow-md);
+  border-bottom: none;
+  padding: 1rem 0;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ffffff !important;
+  letter-spacing: -0.5px;
+
+  &:hover {
+    text-decoration: none;
+    color: #ffffff !important;
+    opacity: 0.9;
+  }
+}
+
+.site-nav {
+  .page-link {
+    color: #ffffff;
+    font-weight: 500;
+    margin-left: 25px;
+    padding: 8px 16px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.15);
+      text-decoration: none;
+      transform: translateY(-1px);
+    }
+  }
+
+  .menu-icon > svg {
+    fill: #ffffff;
+  }
+}
+
+/* Mobile navigation */
+@media screen and (max-width: 600px) {
+  .site-nav {
+    background-color: var(--primary-dark);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+
+    .trigger {
+      background-color: var(--primary-dark);
+      padding: 10px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 10px 15px;
+      margin: 5px 0;
+
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+      }
+    }
+  }
+}
+
+/* ===== TYPOGRAPHY ===== */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid var(--primary-color);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  color: var(--primary-dark);
+  border-bottom: 2px solid var(--bg-gray);
+  padding-bottom: 0.4rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+}
+
+/* ===== LINKS ===== */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: all 0.2s ease;
+
+  &:hover {
+    color: var(--primary-dark);
+    text-decoration: underline;
+  }
+}
+
+/* ===== HOME PAGE HERO ===== */
+.hero-intro {
+  background: linear-gradient(135deg, #f5f7fa 0%, #e8eef4 100%);
+  padding: 2.5rem;
+  border-radius: 12px;
+  border-left: 5px solid var(--primary-color);
+  margin: 2rem 0;
+  box-shadow: var(--shadow-sm);
+}
+
+/* ===== GRID LAYOUTS ===== */
+.expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 2.5rem 0;
+
+  > div {
+    background: #ffffff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-sm);
+    transition: all 0.3s ease;
+
+    &:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-4px);
+      border-color: var(--primary-light);
+    }
+  }
+
+  h3 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 0.5rem;
+    margin-top: 0;
+  }
+
+  ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+
+    li {
+      margin-bottom: 0.5rem;
+      line-height: 1.6;
+    }
+  }
+}
+
+.impact-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+
+  > div {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+    color: #ffffff;
+    padding: 2rem 1.5rem;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: var(--shadow-md);
+    transition: all 0.3s ease;
+
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--shadow-lg);
+    }
+
+    strong {
+      display: block;
+      font-size: 2rem;
+      font-weight: 800;
+      margin-bottom: 0.5rem;
+      color: #ffffff;
+    }
+  }
+}
+
+.academic-section {
+  background: var(--bg-light);
+  padding: 2rem;
+  border-radius: 10px;
+  border-left: 4px solid var(--accent-color);
+  margin: 2rem 0;
+
+  ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+
+    li {
+      margin-bottom: 0.8rem;
+      line-height: 1.6;
+    }
+  }
+}
+
+.contact-cta {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+  color: #ffffff;
+  padding: 2.5rem;
+  text-align: center;
+  border-radius: 12px;
+  margin: 3rem 0;
+  box-shadow: var(--shadow-md);
+
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+    font-weight: 600;
+
+    &:hover {
+      color: #ffffff;
+      opacity: 0.9;
+    }
+  }
+}
+
+/* ===== PROJECT CARDS ===== */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  margin: 2.5rem 0;
+}
+
+.project-card {
+  background: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: translateY(-6px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--primary-light);
+  }
+
+  h3 {
+    margin-top: 0;
+    font-size: 1.4rem;
+
+    a {
+      color: var(--primary-color);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--primary-dark);
+      }
+    }
+  }
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 2rem;
+  margin: 2.5rem 0;
+  text-align: center;
+
+  > div {
+    padding: 1.5rem;
+    background: var(--bg-light);
+    border-radius: 10px;
+    border: 2px solid var(--border-color);
+    transition: all 0.3s ease;
+
+    &:hover {
+      border-color: var(--primary-color);
+      background: #ffffff;
+      box-shadow: var(--shadow-md);
+    }
+
+    strong {
+      display: block;
+      font-size: 2.5rem;
+      font-weight: 800;
+      color: var(--primary-color);
+      margin-bottom: 0.5rem;
+    }
+  }
+}
+
+/* ===== BUTTONS ===== */
+.btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: var(--shadow-sm);
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    color: #ffffff;
+    text-decoration: none;
+  }
+}
+
+/* ===== CODE BLOCKS ===== */
+code {
+  background: var(--bg-gray);
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.9em;
+  color: #d63384;
+}
+
+pre {
+  background: var(--bg-light);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--primary-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  overflow-x: auto;
+  box-shadow: var(--shadow-sm);
+
+  code {
+    background: none;
+    padding: 0;
+    color: var(--text-primary);
+  }
+}
+
+/* Syntax highlighting */
+.highlight {
+  .k { color: #d73a49; font-weight: 600; } /* keywords */
+  .s, .s1, .s2 { color: #032f62; } /* strings */
+  .mi, .mf { color: #005cc5; } /* numbers */
+  .c, .c1 { color: #6a737d; font-style: italic; } /* comments */
+  .nf { color: #6f42c1; font-weight: 600; } /* function names */
+  .nb { color: #005cc5; } /* built-ins */
+}
+
+/* ===== TABLES ===== */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+th {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+  color: #ffffff;
+  font-weight: 700;
+  padding: 1rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.9rem 1rem;
+  border-bottom: 1px solid var(--border-color);
+
+  tr:last-child & {
+    border-bottom: none;
+  }
+}
+
+tr:nth-child(even) {
+  background-color: var(--bg-light);
+}
+
+/* ===== BLOCKQUOTES ===== */
+blockquote {
+  border-left: 4px solid var(--primary-color);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  color: var(--text-secondary);
+  font-style: italic;
+  background: var(--bg-light);
+  padding: 1.5rem;
+  border-radius: 0 8px 8px 0;
+}
+
+/* ===== FOOTER ===== */
+.site-footer {
+  background: var(--bg-gray);
+  border-top: 3px solid var(--primary-color);
+  padding: 2rem 0;
+  margin-top: 4rem;
+  color: var(--text-secondary);
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  .wrapper {
+    padding: 0 20px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
+  .expertise-grid,
+  .impact-cards,
+  .project-grid,
+  .metrics-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .hero-intro {
+    padding: 1.5rem;
+  }
+
+  .contact-cta {
+    padding: 2rem 1.5rem;
+  }
+
+  pre {
+    font-size: 0.85em;
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.7rem;
+  }
+
+  .impact-cards > div strong {
+    font-size: 1.6rem;
+  }
+
+  .metrics-grid > div strong {
+    font-size: 2rem;
+  }
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.post-content,
+.page-content {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* ===== UTILITY CLASSES ===== */
+.text-center {
+  text-align: center;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.mb-2 {
+  margin-bottom: 2rem;
+}
+
+/* ===== PRINT STYLES ===== */
+@media print {
+  .site-header,
+  .site-nav,
+  .site-footer {
+    display: none;
+  }
+
+  body {
+    font-size: 12pt;
+    color: #000;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+}

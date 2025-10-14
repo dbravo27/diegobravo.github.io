@@ -118,7 +118,7 @@ Venezuela
 5. **Idempotent reduction for the finitistic dimension conjecture**
    *Proceedings of the American Mathematical Society* (2020)
 
-[View all publications →](/cv/#publications)
+[View all publications →]({{ site.baseurl }}/cv/#publications)
 
 ### 🌟 What Drives Me
 

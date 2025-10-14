@@ -5,8 +5,8 @@ description: >-
   Senior Data Scientist with 7+ years of experience in Machine Learning, Deep Learning,
   and AI. PhD in Mathematics specializing in production-grade ML systems, recommender systems,
   and generative AI solutions.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/diegobravo.github.io" # the subpath of your site, e.g. /blog
+url: "https://dbravo27.github.io" # the base hostname & protocol for your site
 linkedin_username: diegobravoguerrero
 github_username: diegotechie
 
@@ -96,3 +96,14 @@ social:
 
 # Theme (using default for GitHub Pages compatibility)
 theme: minima
+
+# Minima theme customization
+minima:
+  skin: classic
+
+# Header pages (navigation)
+header_pages:
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/cv.md
+  - _pages/blog.md

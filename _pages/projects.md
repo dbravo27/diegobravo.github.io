@@ -17,13 +17,13 @@ A selection of impactful machine learning and AI projects demonstrating expertis
 {% for project in site.projects %}
 <div class="project-card" markdown="1">
 
-### [{{ project.title }}]({{ project.url }})
+### [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
 
 {{ project.excerpt }}
 
 **Tech Stack:** {{ project.tech_stack }}
 
-[Read more →]({{ project.url }})
+[Read more →]({{ site.baseurl }}{{ project.url }})
 
 </div>
 {% endfor %}
@@ -99,7 +99,7 @@ In addition to industry projects, I maintain an active research program with **1
 
 Topics include graph theory, spectral analysis, homological algebra, and representation theory.
 
-[View all publications on CV page →](/cv/#publications)
+[View all publications on CV page →]({{ site.baseurl }}/cv/#publications)
 
 ---
 

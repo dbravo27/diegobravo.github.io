@@ -453,4 +453,4 @@ async def health_check():
 **Team**: 2 data scientists, 1 ML engineer, 1 software engineer
 **My Role**: Lead Data Scientist - Full project ownership from conception to deployment
 
-[← Back to Projects](/projects)
+[← Back to Projects]({{ site.baseurl }}/projects/)

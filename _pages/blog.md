@@ -31,7 +31,7 @@ Welcome to my technical blog where I share insights from over 7 years of experie
 {% for post in site.posts %}
 <article class="post-preview" markdown="1">
 
-## [{{ post.title }}]({{ post.url }})
+## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
 <div class="post-meta">
 {{ post.date | date: "%B %d, %Y" }} {% if post.reading_time %}• {{ post.reading_time }} min read{% endif %}
@@ -45,7 +45,7 @@ Welcome to my technical blog where I share insights from over 7 years of experie
 {% endfor %}
 </div>
 
-[Read more →]({{ post.url }})
+[Read more →]({{ site.baseurl }}{{ post.url }})
 
 </article>
 
@@ -87,19 +87,19 @@ Technical team management and AI strategy
 
 *Stay updated with new posts on ML engineering, AI research, and data science leadership.*
 
-[RSS Feed](/feed.xml)
+[RSS Feed]({{ site.baseurl }}/feed.xml)
 
 ---
 
 ## Categories
 
-- [All Posts](/blog/)
-- [Machine Learning](/blog/category/machine-learning/)
-- [Deep Learning](/blog/category/deep-learning/)
-- [MLOps](/blog/category/mlops/)
-- [Data Engineering](/blog/category/data-engineering/)
-- [Research](/blog/category/research/)
-- [Case Studies](/blog/category/case-studies/)
+- [All Posts]({{ site.baseurl }}/blog/)
+- [Machine Learning]({{ site.baseurl }}/blog/category/machine-learning/)
+- [Deep Learning]({{ site.baseurl }}/blog/category/deep-learning/)
+- [MLOps]({{ site.baseurl }}/blog/category/mlops/)
+- [Data Engineering]({{ site.baseurl }}/blog/category/data-engineering/)
+- [Research]({{ site.baseurl }}/blog/category/research/)
+- [Case Studies]({{ site.baseurl }}/blog/category/case-studies/)
 
 ---
 

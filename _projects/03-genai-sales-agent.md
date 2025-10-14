@@ -622,4 +622,4 @@ async def download_report_pdf(ticker: str):
 **Team**: 2 AI engineers, 1 full-stack developer, 1 product manager
 **My Role**: Technical Lead - Architecture design, agent development, LLM integration
 
-[← Back to Projects](/projects)
+[← Back to Projects]({{ site.baseurl }}/projects/)
