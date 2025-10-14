@@ -23,38 +23,135 @@ With over **7 years of work experience** in data analytics after receiving a PhD
 
 ## Technical Skills
 
-#### Programming Languages
-Python, SQL, PySpark, HTML, CSS
+<div class="skills-section">
 
-#### Machine Learning
-Scikit-Learn, XGBoost, LightGBM, CatBoost, spaCy, HuggingFace, MLflow, AutoML, Prophet, Optuna
+<div class="skill-category">
+<h4>Programming Languages</h4>
+<div class="skill-tags">
+<span class="skill-tag">Python</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">PySpark</span>
+<span class="skill-tag">HTML</span>
+<span class="skill-tag">CSS</span>
+</div>
+</div>
 
-#### Deep Learning
-PyTorch, TensorFlow, Keras, OpenCV, YOLO, Convolutional Neural Networks, Transformers, BERT
+<div class="skill-category">
+<h4>Machine Learning</h4>
+<div class="skill-tags">
+<span class="skill-tag">Scikit-Learn</span>
+<span class="skill-tag">XGBoost</span>
+<span class="skill-tag">LightGBM</span>
+<span class="skill-tag">CatBoost</span>
+<span class="skill-tag">spaCy</span>
+<span class="skill-tag">HuggingFace</span>
+<span class="skill-tag">MLflow</span>
+<span class="skill-tag">AutoML</span>
+<span class="skill-tag">Prophet</span>
+<span class="skill-tag">Optuna</span>
+</div>
+</div>
 
-#### Data Wrangling
-Pandas, NumPy, Matplotlib, Seaborn, SciPy, Plotly, Statistical methods
+<div class="skill-category">
+<h4>Deep Learning</h4>
+<div class="skill-tags">
+<span class="skill-tag">PyTorch</span>
+<span class="skill-tag">TensorFlow</span>
+<span class="skill-tag">Keras</span>
+<span class="skill-tag">OpenCV</span>
+<span class="skill-tag">YOLO</span>
+<span class="skill-tag">CNNs</span>
+<span class="skill-tag">Transformers</span>
+<span class="skill-tag">BERT</span>
+</div>
+</div>
 
-#### Cloud Platforms
-Azure, AWS, GCP
+<div class="skill-category">
+<h4>Data Wrangling</h4>
+<div class="skill-tags">
+<span class="skill-tag">Pandas</span>
+<span class="skill-tag">NumPy</span>
+<span class="skill-tag">Matplotlib</span>
+<span class="skill-tag">Seaborn</span>
+<span class="skill-tag">SciPy</span>
+<span class="skill-tag">Plotly</span>
+<span class="skill-tag">Statistics</span>
+</div>
+</div>
 
-#### Big Data & Data Engineering
-Databricks, DVC, Apache Airflow
+<div class="skill-category">
+<h4>Cloud Platforms</h4>
+<div class="skill-tags">
+<span class="skill-tag">Azure</span>
+<span class="skill-tag">AWS</span>
+<span class="skill-tag">GCP</span>
+</div>
+</div>
 
-#### Databases
-PostgreSQL, SQL Server, Azure Databases, Azure Data Studio
+<div class="skill-category">
+<h4>Big Data & Data Engineering</h4>
+<div class="skill-tags">
+<span class="skill-tag">Databricks</span>
+<span class="skill-tag">DVC</span>
+<span class="skill-tag">Apache Airflow</span>
+</div>
+</div>
 
-#### Deployment
-Docker, FastAPI, GitHub Actions, Streamlit, Gradio, Azure Web Apps
+<div class="skill-category">
+<h4>Databases</h4>
+<div class="skill-tags">
+<span class="skill-tag">PostgreSQL</span>
+<span class="skill-tag">SQL Server</span>
+<span class="skill-tag">Azure Databases</span>
+<span class="skill-tag">Azure Data Studio</span>
+</div>
+</div>
 
-#### Project Management
-Git, GitHub, Jira, GitHub Projects, Azure DevOps, Bitbucket, Slack
+<div class="skill-category">
+<h4>Deployment</h4>
+<div class="skill-tags">
+<span class="skill-tag">Docker</span>
+<span class="skill-tag">FastAPI</span>
+<span class="skill-tag">GitHub Actions</span>
+<span class="skill-tag">Streamlit</span>
+<span class="skill-tag">Gradio</span>
+<span class="skill-tag">Azure Web Apps</span>
+</div>
+</div>
 
-#### Generative AI
-Azure Foundry, RAG, Azure OpenAI, OpenAI, Gemini API, LLama, LangChain, HuggingFace, Agents
+<div class="skill-category">
+<h4>Project Management</h4>
+<div class="skill-tags">
+<span class="skill-tag">Git</span>
+<span class="skill-tag">GitHub</span>
+<span class="skill-tag">Jira</span>
+<span class="skill-tag">Azure DevOps</span>
+<span class="skill-tag">Bitbucket</span>
+<span class="skill-tag">Slack</span>
+</div>
+</div>
 
-#### Research
-Active researcher with 11 published research papers
+<div class="skill-category">
+<h4>Generative AI</h4>
+<div class="skill-tags">
+<span class="skill-tag">Azure Foundry</span>
+<span class="skill-tag">RAG</span>
+<span class="skill-tag">Azure OpenAI</span>
+<span class="skill-tag">OpenAI</span>
+<span class="skill-tag">Gemini API</span>
+<span class="skill-tag">LLama</span>
+<span class="skill-tag">LangChain</span>
+<span class="skill-tag">HuggingFace</span>
+<span class="skill-tag">Agents</span>
+</div>
+</div>
+
+<div class="skill-category">
+<h4>Research</h4>
+<p>Active researcher with 11 published research papers</p>
+</div>
+
+</div>
 
 ---
 

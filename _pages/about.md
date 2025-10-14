@@ -10,7 +10,7 @@ permalink: /about/
 
 I'm a Senior Data Scientist with over 7 years of experience transforming complex data challenges into production-grade AI solutions. My unique background—combining a PhD in Mathematics with extensive industry experience—enables me to bridge theoretical rigor with practical business impact.
 
-### 🎓 Academic Foundation
+### Academic Foundation
 
 **PhD in Mathematics** - Universidad de Los Andes, Venezuela
 - Specialization: Homological Algebra
@@ -22,14 +22,14 @@ I'm a Senior Data Scientist with over 7 years of experience transforming complex
 - Published 11 research papers in top-tier journals
 - Presented at 20+ international conferences across 10 countries
 
-### 🏆 Recognition
+### Recognition
 - Summa Cum Laude - Bachelor's degree (top of class)
 - Best Student of the College of Sciences (3 consecutive years)
 - Bronze medal at National Mathematics Olympiads
 - Microsoft Certified
 - Databricks Certified
 
-### 💼 Professional Journey
+### Professional Journey
 
 #### **Cresteo** - Senior Data Scientist (2023 - Present)
 Chicago, IL
@@ -37,7 +37,7 @@ Chicago, IL
 Leading enterprise-scale AI initiatives that combine cutting-edge research with production deployment:
 
 - **Multi-Tenant Recommender System**: Architected hybrid recommendation pipeline for Learning Management System with 2.8M interactions, achieving 95% user coverage using ALS collaborative filtering and NLP-based content analysis
-- **Pricing Optimization Engine**: Deployed ML platform for top US manufacturing company, reducing quote turnaround from 24h to <2h with estimated 12% profit lift
+- **Pricing Optimization Engine**: Deployed ML platform for top US manufacturing company, reducing quote turnaround from 24h to <2h with estimated 20% sales increase and 12% profit lift
 - **AI-Powered Sales Agent**: Developed GenAI solution generating 20+ page financial reports, increasing client engagement by 25% using Azure OpenAI and Google Gemini
 - **Logistics Optimization**: Achieved 20% revenue increase and 40% efficiency improvement through real-time optimization in truck logistics
 
@@ -76,7 +76,7 @@ Venezuela
 - Led "Forecasting with Time Series" weekly seminar
 - Created and directed Mathematical Olympiads (600+ participants, 30+ schools)
 
-### 🛠️ Technical Expertise
+### Technical Expertise
 
 **Programming & ML:**
 - **Languages**: Python, SQL, PySpark, HTML, CSS
@@ -95,7 +95,7 @@ Venezuela
 - RAG systems, LangChain, HuggingFace
 - Agent development and orchestration
 
-### 📚 Selected Publications
+### Selected Publications
 
 1. **Some families of digraphs determined by the complementarity spectrum**
    *Linear Algebra and its Applications* (2025)
@@ -114,7 +114,7 @@ Venezuela
 
 [View all publications →]({{ site.baseurl }}/cv/#publications)
 
-### 🌟 What Drives Me
+### What Drives Me
 
 I'm passionate about solving complex problems at the intersection of mathematics, machine learning, and real-world business applications. My approach combines:
 
@@ -123,14 +123,14 @@ I'm passionate about solving complex problems at the intersection of mathematics
 3. **Leadership**: Experience leading cross-functional teams and translating technical solutions for stakeholders
 4. **Continuous Learning**: Active in research community while staying current with industry best practices
 
-### 🎯 Current Focus
+### Current Focus
 
 - Building production-grade recommender systems and GenAI applications
 - MLOps and system architecture for scalable ML deployment
 - Leading technical teams in delivering enterprise AI solutions
 - Contributing to the data science community through mentorship and knowledge sharing
 
-### 📍 Location & Contact
+### Location & Contact
 
 - **Based in:** Plano, Texas
 - **Email:** [dbravo27@gmail.com](mailto:dbravo27@gmail.com)

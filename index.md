@@ -53,7 +53,7 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 
 <div class="impact-cards" markdown="1">
 
-**$10M Revenue Boost**
+**$10M Profit Boost**
 Assortment optimization API for AB InBev serving 300K stores
 
 **90% Faster Quotes**
@@ -63,7 +63,7 @@ ML pricing engine reducing quote turnaround from 24h to <2h
 Real-time optimization in truck logistics sector
 
 **20% Sales Increase**
-Price forecasting API for US real estate firm
+Price optimization API for US manufactoring company
 
 </div>
 

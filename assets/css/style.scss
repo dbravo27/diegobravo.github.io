@@ -567,3 +567,46 @@ a[href*="/feed/"] {
     text-decoration: underline;
   }
 }
+
+// Skills Section Styling
+.skills-section {
+  margin: 2rem 0;
+
+  .skill-category {
+    margin-bottom: 2rem;
+
+    h4 {
+      color: #2c5aa0;
+      margin-bottom: 0.75rem;
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    p {
+      color: #555;
+      font-style: italic;
+    }
+  }
+
+  .skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .skill-tag {
+    display: inline-block;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.4rem 0.9rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(102, 126, 234, 0.4);
+    }
+  }
+}
