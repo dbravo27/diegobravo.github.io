@@ -4,9 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-# Curriculum Vitae
-
-## Dr. Diego Bravo
 **Senior Data Scientist & Mathematician**
 
 - 📧 [dbravo27@gmail.com](mailto:dbravo27@gmail.com)
@@ -300,26 +297,26 @@ Successfully deployed and managed comprehensive machine learning projects, leadi
 
 ## Education
 
-### Universidad de la República, Uruguay
+#### Universidad de la República, Uruguay
 **Postdoctoral Fellow**
 *March 2014 - February 2016*
 Focus: Representation Theory of Algebras
 
-### Universidad de Los Andes, Venezuela
+#### Universidad de Los Andes, Venezuela
 **PhD in Mathematics**
 *October 2006 - September 2010*
 Thesis: *Cotorsion Pairs and Adjoint Functors in C(R-Mod)*
 Advisor: Dr. Edgar Enochs, University of Kentucky
 Specialization: Homological Algebra
 
-### Universidad de Los Andes, Venezuela
+#### Universidad de Los Andes, Venezuela
 **Master of Science in Mathematics**
 *September 2005 - September 2006*
 Thesis: *Spectral Properties of Unicyclic Directed Graphs*
 Advisor: Dr. Juan Rada
 Specialization: Spectral Graph Theory
 
-### Universidad de Los Andes, Venezuela
+#### Universidad de Los Andes, Venezuela
 **Bachelor of Science in Mathematics**
 *September 2000 - August 2005*
 **Summa Cum Laude**

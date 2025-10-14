@@ -1,6 +1,5 @@
----
----
-
+--- 
+--- 
 @import "{{ site.theme }}";
 
 /* Custom CSS overrides for Dr. Diego Bravo Portfolio */
@@ -16,9 +15,9 @@
   --bg-light: #f8f9fa;
   --bg-gray: #eceff1;
   --border-color: #cfd8dc;
-  --shadow-sm: 0 2px 4px rgba(0,0,0,0.08);
-  --shadow-md: 0 4px 12px rgba(0,0,0,0.12);
-  --shadow-lg: 0 8px 24px rgba(0,0,0,0.15);
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.12);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.15);
 }
 
 /* ===== GLOBAL STYLES ===== */
@@ -72,7 +71,7 @@ body {
     }
   }
 
-  .menu-icon > svg {
+  .menu-icon>svg {
     fill: #ffffff;
   }
 }
@@ -102,7 +101,12 @@ body {
 }
 
 /* ===== TYPOGRAPHY ===== */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 700;
   color: var(--text-primary);
   margin-top: 2rem;
@@ -169,13 +173,13 @@ a {
   background: white;
   padding: 2rem;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
   text-align: center;
 
   &:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
   }
 
   h3 {
@@ -208,13 +212,14 @@ a {
   font-size: 3rem;
   margin-bottom: 0.5rem;
 }
+
 .impact-cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
 
-  > div {
+  >div {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
     color: #ffffff;
     padding: 2rem 1.5rem;
@@ -321,7 +326,7 @@ a {
   margin: 2.5rem 0;
   text-align: center;
 
-  > div {
+  >div {
     padding: 1.5rem;
     background: var(--bg-light);
     border-radius: 10px;
@@ -392,12 +397,43 @@ pre {
 
 /* Syntax highlighting */
 .highlight {
-  .k { color: #d73a49; font-weight: 600; } /* keywords */
-  .s, .s1, .s2 { color: #032f62; } /* strings */
-  .mi, .mf { color: #005cc5; } /* numbers */
-  .c, .c1 { color: #6a737d; font-style: italic; } /* comments */
-  .nf { color: #6f42c1; font-weight: 600; } /* function names */
-  .nb { color: #005cc5; } /* built-ins */
+  .k {
+    color: #d73a49;
+    font-weight: 600;
+  }
+
+  /* keywords */
+  .s,
+  .s1,
+  .s2 {
+    color: #032f62;
+  }
+
+  /* strings */
+  .mi,
+  .mf {
+    color: #005cc5;
+  }
+
+  /* numbers */
+  .c,
+  .c1 {
+    color: #6a737d;
+    font-style: italic;
+  }
+
+  /* comments */
+  .nf {
+    color: #6f42c1;
+    font-weight: 600;
+  }
+
+  /* function names */
+  .nb {
+    color: #005cc5;
+  }
+
+  /* built-ins */
 }
 
 /* ===== TABLES ===== */
@@ -510,11 +546,11 @@ a[href*="/feed/"] {
     font-size: 1.7rem;
   }
 
-  .impact-cards > div strong {
+  .impact-cards>div strong {
     font-size: 1.6rem;
   }
 
-  .metrics-grid > div strong {
+  .metrics-grid>div strong {
     font-size: 2rem;
   }
 }
@@ -525,6 +561,7 @@ a[href*="/feed/"] {
     opacity: 0;
     transform: translateY(20px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -551,6 +588,7 @@ a[href*="/feed/"] {
 
 /* ===== PRINT STYLES ===== */
 @media print {
+
   .site-header,
   .site-nav,
   .site-footer {

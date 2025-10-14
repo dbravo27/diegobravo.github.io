@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Featured Projects
-
 A selection of impactful machine learning and AI projects demonstrating expertise across recommender systems, optimization, NLP, computer vision, and generative AI.
 
 ---
@@ -34,30 +32,30 @@ A selection of impactful machine learning and AI projects demonstrating expertis
 
 ## Project Categories
 
-### 🎯 Recommender Systems
+### Recommender Systems
 - **Multi-Tenant LMS Recommender** - Hybrid recommendation pipeline serving 267K users with 95% coverage
 - **Retail Assortment Optimization** - $10M revenue boost serving 300K stores
 
-### 💰 Pricing & Optimization
+### Pricing & Optimization
 - **ML Pricing Engine** - 97% reduction in quote turnaround time for printing industry
 - **Real Estate Price Forecasting** - 20% increase in sales conversions
 
-### 🤖 Generative AI & NLP
+### Generative AI & NLP
 - **AI-Powered Sales Agent** - 20+ page financial reports with interactive chat capabilities
 - **Customer Sentiment Analysis** - BERT-based pipeline for e-commerce feedback
 - **Legal Document Processing** - 70% efficiency boost in FinTech loan approvals
 
-### 📊 Forecasting & Analytics
+### Forecasting & Analytics
 - **Inventory Optimization** - 5% stockout reduction, 10% waste reduction using Prophet/XGBoost
 - **Logistics Real-Time Optimization** - 40% operational efficiency improvement
 
-### 👁️ Computer Vision
+### Computer Vision
 - **Fashion Image Classification** - 99% accuracy CNN model for retail applications
 - **In-Store Customer Analytics** - Computer vision for mall behavior tracking
 
-### 🔧 MLOps & Infrastructure
+### MLOps & Infrastructure
 - **MLOps Transformation** - Level 0 to Level 1 advancement, $120K annual cost savings
-- **InnerSource Platform** - 30+ courses for 400+ data scientists at Shell
+- **AI Courses Platform** - 30+ courses for 400+ data scientists
 
 ---
 

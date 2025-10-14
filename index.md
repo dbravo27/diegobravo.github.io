@@ -63,7 +63,7 @@ ML pricing engine reducing quote turnaround from 24h to <2h
 Real-time optimization in truck logistics sector
 
 **20% Sales Increase**
-Price optimization API for US manufactoring company
+Price optimization API for US manufacturing company
 
 </div>
 

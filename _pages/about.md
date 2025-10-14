@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Dr. Diego Bravo
-
 ## Senior Data Scientist & Mathematician
 
 I'm a Senior Data Scientist with over 7 years of experience transforming complex data challenges into production-grade AI solutions. My unique background—combining a PhD in Mathematics with extensive industry experience—enables me to bridge theoretical rigor with practical business impact.
