@@ -8,7 +8,7 @@ description: >-
 baseurl: "/diegobravo.github.io" # the subpath of your site, e.g. /blog
 url: "https://dbravo27.github.io" # the base hostname & protocol for your site
 linkedin_username: diegobravoguerrero
-github_username: diegotechie
+github_username: dbravo27
 
 # Author information
 author:

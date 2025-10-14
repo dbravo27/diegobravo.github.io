@@ -14,30 +14,45 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 
 ---
 
-## 🎯 Core Expertise
+## Core Expertise
 
-<div class="expertise-grid" markdown="1">
+<div class="expertise-grid">
 
-### Machine Learning & AI
-- **Production ML Systems**: Recommender systems, pricing optimization, forecasting models
-- **Deep Learning**: Computer vision, NLP, transformers, BERT
-- **Generative AI**: RAG systems, Azure OpenAI, LangChain, agent development
+<div class="expertise-card">
+<div class="expertise-icon">🤖</div>
+<h3>Machine Learning & AI</h3>
+<ul>
+<li><strong>Production ML Systems:</strong> Recommender systems, pricing optimization, forecasting</li>
+<li><strong>Deep Learning:</strong> Computer vision, NLP, transformers, BERT</li>
+<li><strong>Generative AI:</strong> RAG systems, Azure OpenAI, LangChain, agents</li>
+</ul>
+</div>
 
-### Data Engineering & MLOps
-- **Big Data**: PySpark, Databricks, Apache Airflow
-- **Cloud Platforms**: Azure, AWS, GCP
-- **MLOps**: CI/CD pipelines, model monitoring, containerization
+<div class="expertise-card">
+<div class="expertise-icon">⚙️</div>
+<h3>Data Engineering & MLOps</h3>
+<ul>
+<li><strong>Big Data:</strong> PySpark, Databricks, Apache Airflow</li>
+<li><strong>Cloud Platforms:</strong> Azure, AWS, GCP</li>
+<li><strong>MLOps:</strong> CI/CD pipelines, model monitoring, containerization</li>
+</ul>
+</div>
 
-### Technical Leadership
-- Led teams of 30+ data scientists
-- Managed multi-million dollar AI initiatives
-- Delivered projects generating $10M+ in revenue
+<div class="expertise-card">
+<div class="expertise-icon">👥</div>
+<h3>Technical Leadership</h3>
+<ul>
+<li>Led teams of 30+ data scientists</li>
+<li>Managed multi-million dollar AI initiatives</li>
+<li>Delivered projects generating $10M+ in revenue</li>
+</ul>
+</div>
 
 </div>
 
 ---
 
-## 🚀 Impact Highlights
+## Impact Highlights
 
 <div class="impact-cards" markdown="1">
 
@@ -57,7 +72,7 @@ Price forecasting API for US real estate firm
 
 ---
 
-## 📚 Academic Excellence
+## Academic Excellence
 
 <div class="academic-section" markdown="1">
 
@@ -70,7 +85,7 @@ Price forecasting API for US real estate firm
 
 ---
 
-## 💼 Currently
+## Currently
 
 **AI Leader & Senior Data Scientist at Cresteo** (Chicago, IL)
 
