@@ -106,4 +106,4 @@ header_pages:
   - _pages/about.md
   - _pages/projects.md
   - _pages/cv.md
-  - _pages/blog.md
+#  - _pages/blog.md
