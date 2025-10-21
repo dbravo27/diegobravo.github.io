@@ -384,4 +384,4 @@ Specialization: Spectral Graph Theory
 
 *Last Updated: October 2025*
 
-[Download PDF Version]({{ site.baseurl }}/assets/pdf/DrDiegoBravo_SrDataSciencist_2025_10_14.pdf) | [Contact Me](mailto:dbravo27@gmail.com)
+[Download PDF Version]({{ site.baseurl }}/assets/pdf/DrDiegoBravo_SrDataSciencist_2025_10_21.pdf) | [Contact Me](mailto:dbravo27@gmail.com)

@@ -23,7 +23,7 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 <ul>
 <li><strong>Production ML Systems:</strong> Recommender systems, pricing optimization, forecasting</li>
 <li><strong>Deep Learning:</strong> Computer vision, NLP, transformers, BERT</li>
-<li><strong>Generative AI:</strong> RAG systems, Azure OpenAI, LangChain, agents</li>
+<li><strong>Generative AI:</strong> AI Multi-agents, RAG systems, Azure OpenAI, LangChain</li>
 </ul>
 </div>
 
@@ -41,7 +41,7 @@ With over **7 years of experience** in data analytics following a **PhD in Mathe
 <ul>
 <li>Led teams of 30+ data scientists</li>
 <li>Managed multi-million dollar AI initiatives</li>
-<li>Delivered projects generating $10M+ in revenue</li>
+<li>Current company AI Leader</li>
 </ul>
 </div>
 
