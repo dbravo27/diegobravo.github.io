@@ -72,10 +72,11 @@ Price optimization API for US manufacturing company
 
 <div class="academic-section" markdown="1">
 
-- **PhD in Mathematics** - Universidad de Los Andes, Venezuela
-- **11 Published Research Papers** in top journals (Linear Algebra and its Applications, Journal of Algebraic Combinatorics)
-- **20+ International Conference Presentations** across 10 countries
-- **Professor & Researcher** at University of the Republic, Uruguay (2014-2020)
+- **Ph.D. in Mathematics** – Specialized in algebraic structures and combinatorial applications.
+- **National Mathematics Olympiad Medalist**, recognized for exceptional problem-solving ability.
+- **11 Research Papers** published in leading journals, including one ranked among the top 10% most impactful in the field.
+- **20+ International Presentations** across 10 countries on algebra, graph theory, and combinatorics.
+- **Professor & Researcher** – Taught undergraduate and graduate courses, supervised research, and led national academic initiatives.
 
 </div>
 
